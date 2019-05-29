@@ -2,7 +2,7 @@ Feature: MiddleNameFeature
 
   Add Middle Name
 
-  @ORPHAN
+  @HSBCDEV-1 @OPEN
   Scenario Outline: Middle Name
     Given User is on Demo Application
         When User enter "<firstname>" , "<middlename>" and "<lastname>"
