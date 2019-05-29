@@ -5,3 +5,9 @@ Feature: feaature
     Given
     When
     Then
+
+  @ORPHAN
+  Scenario: Demo2
+    Given
+    When
+    Then
